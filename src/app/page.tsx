@@ -3,3 +3,6 @@ export default function Home() {
     <h2>Rocketseat</h2>
   );
 }
+
+
+
